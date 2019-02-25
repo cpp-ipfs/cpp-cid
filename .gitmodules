@@ -1,0 +1,12 @@
+[submodule "external/cpp-multihash"]
+	path = external/cpp-multihash
+	url = git@github.com:cpp-ipfs/cpp-multihash.git
+[submodule "external/cpp-multibase"]
+	path = external/cpp-multibase
+	url = git@github.com:cpp-ipfs/cpp-multibase
+[submodule "external/cpp-multicodec"]
+	path = external/cpp-multicodec
+	url = git@github.com:cpp-ipfs/cpp-multicodec
+[submodule "3rdparty/hunter"]
+	path = 3rdparty/hunter
+	url = https://github.com/ruslo/hunter.git
